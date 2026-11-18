@@ -1,4 +1,4 @@
-:root{--asphalt:#1e252b;--line:#ffc20e;--sign:#d8232a;--paper:#f2f4f5;--ink:#1a2025;--muted:#5d6870;--r:14px}
+:root{--f-head:'Roboto Condensed';--f-body:'Roboto';--asphalt:#1e252b;--line:#ffc20e;--sign:#d8232a;--paper:#f2f4f5;--ink:#1a2025;--muted:#5d6870;--r:14px}
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{font-family:var(--f-body),system-ui,sans-serif;background:var(--paper);color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased}
